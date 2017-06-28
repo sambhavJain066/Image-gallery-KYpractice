@@ -6,7 +6,11 @@
 	font-family: Arial;
 	
      }
-		
+		.footer{
+			text-align:center;
+			font-size:14px;
+			font-family:Arial;
+			}
 		div{
 			overflow-x:auto;
 			overflow-y:auto;
